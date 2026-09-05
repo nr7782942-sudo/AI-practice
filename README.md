@@ -13,3 +13,7 @@
 - Codex를 이용한 바이브 코딩
 - Git으로 코드 저장 및 복구
 - GitHub에 프로젝트 백업
+
+  ## GitHub 실습
+- git push로 내 컴퓨터의 변경 내용을 GitHub에 보냈습니다.
+- git pull로 GitHub의 변경 내용을 내 컴퓨터로 가져옵니다.
